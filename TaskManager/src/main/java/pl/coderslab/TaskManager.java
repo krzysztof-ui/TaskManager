@@ -20,7 +20,7 @@ public class TaskManager {
              String[][] splitArray = splitLinesOf_CSV_File(path);
              String[][] removeOfArray;
              //removeOfArray = new String[][];
-        //String[][] splitArray = removeOfArray[][];
+            //String[][] splitArray = removeOfArray[][];
 
 
             //printTasks(splitArray);
